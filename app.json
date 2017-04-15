@@ -1,0 +1,6 @@
+{
+  "name": "PHP API endpoints",
+  "description": "A few API endpoints built in Object-Oriented PHP",
+  "repository": "https://github.com/heroku/php-api-endpoints",
+  "addons": []
+}
