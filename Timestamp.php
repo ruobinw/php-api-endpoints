@@ -1,7 +1,7 @@
 <?php
 
-if($_SERVER["REQUEST_URI"] == '/php-api-endpoints/Timestamp.php') {
-	return json_encode(array('Timestamp' => time()));
+if($_SERVER["REQUEST_URI"] == '/Timestamp.php') {
+	echo json_encode(array('Timestamp' => time()));
 }
 
 ?>
